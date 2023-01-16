@@ -4,13 +4,7 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class RandomAlgorithm {
-//    private long a, c, m;
-//
-//    public RandomAlgorithm(long a, long c, long m) {
-//        this.a = a;
-//        this.c = c;
-//        this.m = m;
-//    }
+    
 public static void main(String[] args) {
     RandomAlgorithm r = new RandomAlgorithm();
 
